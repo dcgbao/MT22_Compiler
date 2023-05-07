@@ -1,2 +1,1 @@
-# Principles of Programming Languages - HCMUT - 
-MT22 compiler
+# Principles of Programming Languages - HCMUT - MT22 compiler
